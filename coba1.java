@@ -5,5 +5,6 @@ public class coba1 {
         System.out.println("wkwwkwk");
         System.out.println("hahahaha");
         System.out.println("hehehheheh");
+        System.out.println("saya wk");
     }
 }
